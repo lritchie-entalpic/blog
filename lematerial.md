@@ -8,7 +8,7 @@ authors:
   guest: true
 - user: msiron
   guest: true
-- user: inelgnu
+- user: test
   guest: true
 - user: etiennedufayet
   guest: true
